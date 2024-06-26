@@ -25,8 +25,8 @@ This was done with HTML5 and CSS over the space of a few hours and I'm really ha
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-recipe-page-html-css-EVWSnSX-q1
+- Live Site URL: https://rkennedyy.github.io/RecipePage/
 
 ## My process
 Firstly I reviewed the design and noted down how many div's I would need and how to break up the design to tackle it piece by piece.
